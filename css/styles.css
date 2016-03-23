@@ -8,3 +8,11 @@ h3 {
   text-align: center;
 
 }
+
+#show-results {
+  display:none;
+}
+
+.balanceSize {
+  font-size: 40px;
+}
